@@ -6,6 +6,7 @@ Purpose : for knowing each other.
 - Self introduction.
   - describe who I am. (name, age, from)
   - what I'm doing. (jobs, weekends)
+  - what I like. (favorits, intersts)
   
 ## 2nd Phase.
 Purpose : for daily communication.  
